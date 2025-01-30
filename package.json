@@ -4,13 +4,8 @@
   "displayName": "QR Scanner",
   "description": 
   "This asset provides a simple and efficient solution for scanning and decoding QR codes in Unity. 
-  
-  1 Download and import the NuGetForUnity package
-https://github.com/GlitchEnzo/NuGetForUnity/releases
-
- 2 Open Nuget Package Manage Window
-Search and install the "ZXing.Net" package. (https://github.com/micjahn/ZXing.Net/)
-",
+ 
+  To fix the errors, Check the documentation.",
 
   "unity": "6000.0",
   "unityRelease": "25f1",
