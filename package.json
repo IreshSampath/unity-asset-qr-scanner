@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "displayName": "QR Scanner",
   "description": 
-  "This asset provides a simple and efficient solution for scanning and decoding QR codes in Unity. 
- 
-  To fix the errors, Check the documentation.",
+  "This asset provides a simple and efficient solution for scanning and decoding QR codes in Unity. To fix the errors, Check the documentation.",
 
   "unity": "6000.0",
   "unityRelease": "25f1",
