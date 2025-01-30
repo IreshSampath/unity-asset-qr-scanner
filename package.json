@@ -1,0 +1,35 @@
+﻿{
+  "name": "com.ireshsampath.unity-assets.qr-scanner",
+  "version": "1.0.0",
+  "displayName": "QR Scanner",
+  "description": "This asset provides a simple and efficient solution for scanning and decoding QR codes in Unity.",
+  "unity": "6000.0",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://example.com/qr-scanner-docs",
+  "changelogUrl": "https://example.com/qr-scanner-changelog.html",
+  "licensesUrl": "https://example.com/qr-scanner-licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "5.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "QR Scanner Sample",
+      "description": "An example scene demonstrating QR code scanning and data extraction.",
+      "path": "Samples~/Sample 1"
+    }
+  ],
+  "keywords": [
+    "QR code",
+    "scanner",
+    "barcode",
+    "Unity",
+    "real-time scanning",
+    "data extraction",
+    "augmented reality"
+  ],
+  "author": {
+    "name": "Iresh Sampath",
+    "email": "ireshsampath@gmail.com",
+    "url": "https://ireshsampath.portfoliobox.io/"
+  }
+}
